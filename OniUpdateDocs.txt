@@ -1,0 +1,5 @@
+All code related to the "Oni" race will be collected here. The code is collected from the Frontier code.
+There will be a form:
+From: folder/file/line of code (Frontier)
+To: folder/file/line of code (SS14)
+//Coment about what that code is doing
